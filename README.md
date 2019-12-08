@@ -25,6 +25,7 @@ robot --version
 *** EXECUÇÃO ***
 
 Fazer downloads de todos arquivos do diretório e executar no prompt do comando (cmd):
+
 robot TestCaseExample.robot
 
 *** RELATÓRIO DE EXECUÇÃO DE TESTES ***

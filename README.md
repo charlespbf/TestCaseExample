@@ -1,3 +1,5 @@
+https://github.com/charlespbf/TestCaseExample/
+
 *** PRÉ-REQUISITOS ***
 
 1. Google Chrome instalado.

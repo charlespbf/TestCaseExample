@@ -10,13 +10,16 @@ https://github.com/charlespbf/TestCaseExample/
 - Baixe o Python 3.x (última versão) [https://www.python.org/downloads/]
 - Instale o Python via executável definindo a variável de ambiente durante a instalação (recomendado).
 - No prompt de comando (cmd) execute para verificar se a instalação foi realizada:
+
 python --version
+
 pip --version
 
 3. Instale o Robot Framework.
 - No prompt de comando (cmd) execute:
 pip install -U robotframework
 -Veririficar sucesso da instalação, no prompt de comando (cmd) execute:
+
 robot --version
 
 *** EXECUÇÃO ***

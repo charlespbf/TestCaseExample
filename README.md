@@ -21,4 +21,5 @@ Fazer downloads de todos arquivos do diretório e executar no prompt do comando 
 robot TestCaseExample.robot
 
 *** RELATÓRIO DE EXECUÇÃO DE TESTES ***
+
 LogExecucao.html
